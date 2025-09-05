@@ -53,8 +53,5 @@ Use API to fetch real-time weather data and apply the model.
 
 
 
-📂 Project Structure
-Weather-Prediction/
-│── Weather Prediction.ipynb   # Jupyter Notebook with code
-│── dataset.csv                # Weather dataset
-│── README.md                  # Project Documentation
+
+
